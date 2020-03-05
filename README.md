@@ -1,5 +1,8 @@
 # tictactoe
 
+Here is the code for a tic tac toe (morpion in french) created in Python.
+It's a little project did in a few hours in class.
+
 This repository contains 4 files.
 tictactoe.py is all the code I used. In order to make things easier to read, I separated my code in three other files :
 
